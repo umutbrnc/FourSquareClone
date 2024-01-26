@@ -1,2 +1,2 @@
 # FourSquareClone
-FourSquare(Clone) Mobile Application
+FourSquareClone Mobile Application (iOS) with Parse
